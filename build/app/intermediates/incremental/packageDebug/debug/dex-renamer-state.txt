@@ -1,0 +1,4 @@
+#Sun Mar 25 15:06:51 IST 2018
+base.0=C\:\\Users\\rahul\\OneDrive\\Documents\\MyCode\\code\\flutter_rocks\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
